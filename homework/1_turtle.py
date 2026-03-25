@@ -1,6 +1,5 @@
 
 import turtle as t
-print("====正在启动画图程序...====")
 
 t.setup(650, 350, 200, 200)#设置画布大小和位置
 
@@ -17,6 +16,4 @@ for i in range(100):
     t.forward(i*2)
     t.left(90)
 
-
-print("===画完了，准备进入等待状态...===")
 
