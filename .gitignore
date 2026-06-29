@@ -1,0 +1,23 @@
+﻿# Downloaded datasets
+/python与人工智能-代码/VGG/data/cifar-10-python.tar.gz
+/python与人工智能-代码/VGG/data/cifar-10-batches-py/
+
+# Local Jupyter files
+.jupyter-data/
+.jupyter-config/
+
+# Local tools
+.codex_work/
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Downloaded datasets
+/python与人工智能-代码/VGG/data/cifar-10-python.tar.gz
+/python与人工智能-代码/VGG/data/cifar-10-batches-py/
+
+# Downloaded CIFAR-10 datasets
+**/cifar-10-python.tar.gz
+**/cifar-10-batches-py/
