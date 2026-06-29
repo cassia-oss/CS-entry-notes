@@ -21,3 +21,5 @@ __pycache__/
 # Downloaded CIFAR-10 datasets
 **/cifar-10-python.tar.gz
 **/cifar-10-batches-py/
+
+/first-contributions/
